@@ -11,7 +11,7 @@ interface BalancesProps {
 export default function Balances({ balancesByCurrency }: BalancesProps) {
   return (
     <>
-      <h1 className="text-3xl font-bold mb-6 text-center bg-gray-800 text-white py-3 rounded">
+      <h1 className="text-3xl font-bold mb-6 text-center bg-gray-700 text-white py-3 rounded">
         Expense Manager
       </h1>
 
